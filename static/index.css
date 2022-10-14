@@ -1,14 +1,15 @@
 *
 {
-  color: red;
+  color: rgb(215, 42, 42);
   background: black;
 }
 input
 {
-  border: 2px solid green;
+  border: 2px solid rgb(0, 60, 128);
   border-radius: 10px;
   padding: 10px;
 }
 input:hover{
   cursor: pointer;
+  background-color: rgb(52, 170, 174);
 }
